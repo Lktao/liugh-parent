@@ -100,14 +100,6 @@ Spring Boot +Spring Cloud +Spring Security Oauth2 +JWT +MybatisPlus +Mysql +Redi
 ![](https://oscimg.oschina.net/oscnet/up-bc8acff8b14d093d3bf0ae0ea08df8576fe.png)
 
 
-第一次做自己的项目，经验不足，如果大家有什么好的意见或批评，请务必issue一下。
-
-加博主进交流群，一起优化进步（或wx搜索：53182347）：
-
-
-![](https://oscimg.oschina.net/oscnet/up-82beddfedc2723fc46f04606ac698792659.png)
-
-
 
 
 
